@@ -1,19 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook MAC",
-            "price": 5005.89
-        },
-        {
-            "id": 3,
-            "name": "samsumg",
-            "price": 5651.14
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC",
+      "price": 5005.89
+    },
+    {
+      "id": 3,
+      "name": "samsumg",
+      "price": 5651.14
+    },
+    {
+      "name": "Produto teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Pedro Henrique Godoy",
+      "price": "1221",
+      "id": 6
+    },
+    {
+      "name": "ertert",
+      "price": "323",
+      "id": 7
+    }
+  ]
 }
