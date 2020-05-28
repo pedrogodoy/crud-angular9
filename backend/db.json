@@ -12,7 +12,7 @@
     },
     {
       "id": 3,
-      "name": "samsumg",
+      "name": "samsumgere",
       "price": 5651.14
     },
     {
@@ -24,11 +24,6 @@
       "name": "Pedro Henrique Godoy",
       "price": "1221",
       "id": 6
-    },
-    {
-      "name": "ertert",
-      "price": "323",
-      "id": 7
     }
   ]
 }
